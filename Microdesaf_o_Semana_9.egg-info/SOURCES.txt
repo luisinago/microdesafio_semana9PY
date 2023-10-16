@@ -1,0 +1,7 @@
+setup.py
+Microdesaf_o_Semana_9.egg-info/PKG-INFO
+Microdesaf_o_Semana_9.egg-info/SOURCES.txt
+Microdesaf_o_Semana_9.egg-info/dependency_links.txt
+Microdesaf_o_Semana_9.egg-info/top_level.txt
+paquete/__init__.py
+paquete/agenda.py
